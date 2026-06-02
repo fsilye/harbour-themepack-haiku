@@ -24,7 +24,7 @@ QtObject {
     readonly property string sourcesUrl: "https://github.com/uithemer/harbour-themepack-haiku"
     readonly property string docsUrl: "https://github.com/uithemer/harbour-themepack-companion"
     readonly property string donateUrl: "https://liberapay.com/fravaccaro"
-    readonly property string transifexUrl: ""
+    readonly property string transifexUrl: "https://explore.transifex.com/fravaccaro/haiku-theme/"
 
     readonly property var translators: [
         { language: "Italiano", name: "fravaccaro" },

@@ -1,7 +1,7 @@
 
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="it_IT">
 <context>
     <name>FirstPage</name>
     <message>
@@ -14,7 +14,7 @@
     </message>
     <message>
         <source>Icon request</source>
-        <translation>Ikonforespørsel</translation>
+        <translation>Forespørsel om ikoner</translation>
     </message>
     <message>
         <source>From here you can request missing icons for your favorite apps.</source>

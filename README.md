@@ -36,10 +36,10 @@ Builds available [here](https://openrepos.net/content/fravaccaro/haiku-theme-pac
 
 - **DejaVu Sans** — [DejaVu fonts](https://dejavu-fonts.github.io/). See `theme/LICENSE` for the Bitstream Vera / Arev Fonts license.
 
-### Icons (theme)
+### Icons
 
 - Icons derived from the **Haiku® operating system** icon set (HVIF), used under the **MIT License** where applicable.
-- Sources: [Haiku® artwork](https://cgit.haiku-os.org/haiku.git/tree/data/artwork), [hvif-store.art](https://hvif-store.art), and [darealshinji/haiku-icons](https://github.com/darealshinji/haiku-icons) (per-icon details in `theme/ICONS.md`).
+- Sources: [Haiku® artwork](https://cgit.haiku-os.org/haiku.git/tree/data/artwork), [hvif-store.art](https://hvif-store.art), and [darealshinji/haiku-icons](https://github.com/darealshinji/haiku-icons).
 - Per [Haiku Inc.](https://www.haiku-inc.org/trademarks/haiku_icons/): the origin of these icons is documented here when distributing the pack.
 - **Trademarks in the theme:** launcher icons do **not** include the HAIKU logo®, HAIKU Leaf™, or HAIKU Background Leaf™. The tutorial slot uses the **FAQ** icon from hvif-store.art (zuMi, MIT).
 

@@ -1,0 +1,34 @@
+remote_theme: just-the-docs/just-the-docs@v0.10.2
+
+title: Haiku theme for Sailfish OS
+description: Haiku theme for Sailfish OS
+
+url: "https://uithemer.github.io"
+baseurl: "/harbour-themepack-haiku"
+repository: uithemer/harbour-themepack-haiku
+
+search_enabled: false
+
+aux_links:
+  "Haiku theme on GitHub":
+    - "https://github.com/uithemer/harbour-themepack-haiku"
+
+exclude:
+  - other/
+  - qml/
+  - rpm/
+  - src/
+  - theme/
+  - translations/
+  - icons/
+  - .cache/
+  - .sfdk/
+  - RPMS/
+  - LICENSE
+  - "*.desktop"
+  - "*.pro"
+  - "*.pro.user"
+  - .gitignore
+  - .github/
+  - .jekyll-cache/
+  - vendor/
